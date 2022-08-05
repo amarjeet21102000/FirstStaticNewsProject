@@ -1,0 +1,121 @@
+
+.himage{
+    display: flex;
+    margin-left: 100px;
+}
+
+
+h1{
+    font-size: 50px;
+    font-style: italic;
+}
+li{
+    color: blue;
+}
+.clear{
+    clear: both;
+}
+h4{
+    background-color: aqua;
+    display: inline;
+}
+
+.amar{
+    background-color: aquamarine;
+    display: block ;
+    margin-top: 15px;
+}
+
+.clear{
+    clear:both
+}
+table{
+    margin-left: 100px;
+    border:solid black;
+    margin-top: 20px;
+    width: 50%;
+}
+th{
+    border:solid black;
+    background-color:red;
+}
+td{
+    border:solid black;
+    font-family: sans-serif;
+    color:blue;
+    
+}
+nav{
+    text-align: center;
+}
+nav a{
+  text-decoration: none;
+  font-size: 1.4rem;
+  margin-right: 3rem;
+}
+ul li{
+    margin-top: 2rem;
+}
+.social{
+    margin-left: 100px;
+    margin-top: 40px;
+    float: left;
+}
+
+.socialp{
+    width: 80%;
+    float: left;
+    margin-top: 70px;
+    
+}
+.clear{
+    clear: both;
+}
+.sachin{
+    margin-left: 100px;
+    margin-top: 40px;
+    float: left;
+}
+.sachinp{
+    width: 80%;
+    float: left;
+    margin-top: 70px;
+}
+.clear{
+    clear: both;
+}
+.entertain{
+    margin-left: 100px;
+    margin-top: 40px;
+    float: left;
+}
+.entertainp{
+    width: 80%;
+    float: left;
+    margin-top: 70px;
+
+}
+.clear{
+    clear: both;
+}
+.entertainp li{
+    color: black;
+}
+.sachinp li{
+    color: black;
+}
+.socialp li{
+    color: black;
+}
+.newsbox{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    
+}
+h1{
+    margin-left: 20px;
+}
+.list{
+    margin-left:100px;
+}
